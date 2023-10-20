@@ -3,7 +3,7 @@
   <img src="https://media3.giphy.com/media/l0HlGmv4WqldO9c5y/giphy.gif" width="480" height="236"/>
   <div id="badges">
     <a href="https://github.com/optiguy">
-      <img src="https://img.shields.io/badge/github?logo=github" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/github-000000?logo=github" alt="Github Badge"/>
     </a>
     <a href="https://www.npmjs.com/~optiguy">
       <img src="https://img.shields.io/badge/NPM-cc3534?logo=npm" alt="NPM Badge"/>
